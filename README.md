@@ -16,3 +16,6 @@ India Agriculture Crop Production dataset (government-sourced, via Kaggle). Colu
 ## Tools
 Excel (Power Query, Pivot Tables, Pivot Charts, slicers)
 
+
+## Full Excel workbook available on request (not included here due to file size).
+
